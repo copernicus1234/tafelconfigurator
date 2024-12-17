@@ -39,6 +39,7 @@ export const Interface = () => {
           
         </Button>
         <FormLabel>Beeren Houtbewerking - tafelconfigurator</FormLabel>
+        <FormLabel>Binnenkort is hier de Lamétafel te configureren</FormLabel>
         {opened && (
           <>
             <Box className="glass" p={3}>
